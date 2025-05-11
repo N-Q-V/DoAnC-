@@ -35,7 +35,7 @@ Dự án xây dựng website bán điện thoại sử dụng ngôn ngữ lập 
 
 1. **Clone** dự án về máy:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/N-Q-V/DoAnC-.git
 2. API
 - Chạy file WebApplication1.sln trong folder WebApplication1 để chạy API
 - Cấu hình db, username, password trong appsettings.json
