@@ -50,4 +50,4 @@ Dự án xây dựng website bán điện thoại sử dụng ngôn ngữ lập 
 - TK User:  username: user01
             password: 123456
 ## 📽️ Video Demo
-[![Watch the video](https://img.youtube.com/vi/ID_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ID_VIDEO)
+https://www.youtube.com/watch?v=fsIUiGpcjk4
